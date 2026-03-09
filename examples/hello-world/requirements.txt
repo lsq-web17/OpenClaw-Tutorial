@@ -1,0 +1,17 @@
+# Hello World技能依赖
+# 这是一个简单的技能，只需要Python标准库
+
+# 如果需要额外的依赖，可以在这里添加
+# 例如：
+# requests>=2.25.1
+# beautifulsoup4>=4.9.3
+
+# 测试依赖（可选）
+# pytest>=6.2.5
+# pytest-cov>=2.12.1
+
+# 当前版本
+python_version = ">=3.8"
+
+# 注意：这个技能设计为使用Python标准库
+# 所以实际上没有外部依赖
