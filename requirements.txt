@@ -1,0 +1,20 @@
+# OpenClaw Tutorial 项目依赖
+# 这是一个教程项目，主要依赖Python标准库
+
+# 如果需要OpenClaw Python SDK（未来可能添加）
+# openclaw-python>=1.0.0
+
+# 基础依赖
+python_version >= "3.8"
+
+# 开发依赖（可选）
+# pytest>=7.0.0
+# flake8>=6.0.0
+# black>=23.0.0
+
+# 文档生成（可选）
+# mkdocs>=1.4.0
+# mkdocs-material>=9.0.0
+
+# 注意：当前版本主要使用Python标准库
+# 保持轻量级，便于学习和使用
